@@ -996,5 +996,15 @@ input.mail_bt::placeholder {
     margin-top: 90px;
 }
 
+.btn-row{
+    display: flex;
+    justify-content: center;
+}
+
+.vl {
+ border-left: 1px solid rgba(0,0,0,.1);
+    height: 416px;
+    margin-left: 27px;
+}
 
 /* copyright section end */
